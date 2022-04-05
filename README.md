@@ -1,4 +1,4 @@
-# Software-Developer-Interviews-Tasks
+# Software Developer Interviews Tasks
 This repo contains tasks from technical interviews.
 
 # A couple words of organisation of this repo. 
